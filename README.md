@@ -1,6 +1,8 @@
 # AndroidNativeEmu
 [ 中文README & 教程？ ](README_cn.md)
 
+QQ 群：471525564
+
 Allows you to partly emulate an Android native library.
 
 This is an educational project to learn more about the ELF file format and [Unicorn](https://github.com/unicorn-engine/unicorn).
